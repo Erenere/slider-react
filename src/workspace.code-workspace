@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Documents\\Python"
+		},
+		{
+			"path": "..\\..\\Documents\\Js_ws"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\acikg\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+		"liveServer.settings.multiRootWorkspaceName": "Js_ws"
+	}
+}
